@@ -15,6 +15,7 @@ public class Spring23Roster {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Instructor: Lorans R. Jones");
     }
     
 }
